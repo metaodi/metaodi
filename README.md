@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefan (although many people call me Odi)</h1>
 <h3 align="center">🗃️ Open Data Activist 🤹‍♂️ Husband + Dad of three 📊 Something with data</h3>
 
-- 📝 I regularly write articles on [https://metaodi.ch](https://metaodi.ch)
+- 📝 I regularly write articles on [https://metaodi.ch](https://metaodi.ch) and [https://digital.ebp.ch](https://digital.ebp.ch/author/ods/)
 
 - 📫 How to reach me **odi@metaodi.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/odi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odi" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/metaodi.ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/metaodi/metaodi/master/assets/logo-bluesky.svg" alt="odi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stefan-oderbolz-5212214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan-oderbolz-5212214" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/549755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="549755" height="30" width="40" /></a>
 </p>
